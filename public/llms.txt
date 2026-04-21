@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מחפשים עורך דין מנוסה בדיני תעבורה או מקרקעין? משרד מונדר חליחל מציע ייצוג מקצועי, אמין ויעיל. פנו אלינו היום לייעוץ ראשוני.
+
+### תחומי עיסוק
+https://example.com/practice-areas
+גלו את מגוון תחומי העיסוק של משרדנו: דיני תעבורה, מקרקעין, גישור ונוטריון. מומחיות משפטית רחבה לכל צורך — הכירו את השירותים שיגנו על זכויותיכם.
+
+### אודות
+https://example.com/about
+עו&quot;ד מונדר חליחל מביא שנות ניסיון, מקצועיות ומחויבות אישית לכל תיק. הכירו את הערכים, הרקע המשפטי והגישה הייחודית שהופכים אותנו לבחירה הנכונה עבורכם.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה משפטית בנושא תעבורה, מקרקעין או גישור? צרו קשר עם משרד מונדר חליחל עכשיו ותקבלו ייעוץ מקצועי, מהיר ואישי מעורך דין מנוסה בישראל.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
